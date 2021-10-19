@@ -22,19 +22,19 @@
     "url": "$ACDS",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "acds",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1394,
-    "timeDay": 1518,
-    "timeWeek": 1351,
-    "timeMonth": 1394,
-    "timeYear": 1394,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.09%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 1571,
+    "timeDay": 3356,
+    "timeWeek": 1982,
+    "timeMonth": 1571,
+    "timeYear": 1571,
     "dailyMinutesDown": {
-      "2021-10-19": 0
+      "2021-10-19": 13
     }
   },
   {
