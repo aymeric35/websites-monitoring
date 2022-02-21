@@ -4,10 +4,10 @@
     "url": "$MY_WEBSITE",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "mon-site-web",
-    "status": "up",
+    "status": "down",
     "uptime": "99.90%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.90%",
     "time": 179,
@@ -16,6 +16,7 @@
     "timeMonth": 167,
     "timeYear": 179,
     "dailyMinutesDown": {
+      "2022-02-21": 1,
       "2022-01-29": 18,
       "2022-01-09": 19,
       "2021-12-25": 74,
@@ -58,12 +59,12 @@
     "status": "up",
     "uptime": "99.70%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.82%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.70%",
     "time": 1631,
     "timeDay": 1869,
-    "timeWeek": 1536,
+    "timeWeek": 1386,
     "timeMonth": 1521,
     "timeYear": 1631,
     "dailyMinutesDown": {
@@ -89,9 +90,9 @@
     "url": "$PIZZA",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "pizza-restaurant",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -100,6 +101,8 @@
     "timeWeek": 1557,
     "timeMonth": 1130,
     "timeYear": 431,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-21": 0
+    }
   }
 ]
