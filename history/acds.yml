@@ -1,7 +1,7 @@
 url: $ACDS
-status: up
-code: 200
-responseTime: 852
-lastUpdated: 2022-04-11T23:21:18.122Z
+status: down
+code: 502
+responseTime: 26362
+lastUpdated: 2022-04-12T05:58:38.804Z
 startTime: Wed Sep 22 2021 11:50:19 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
